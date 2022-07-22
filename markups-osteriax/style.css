@@ -497,6 +497,7 @@ img {
   font-size: 50px;
   font-family: "Tangerine", cursive;
   line-height: 30px;
+  color: crimson;
 }
 
 .mu-title h2 {
@@ -728,7 +729,7 @@ RESERVATION SECTION
   float: left;
   padding: 100px 0;
   width: 100%;
-  background-color: palevioletred;
+  /* background-color: palevioletred; */
 }
 
 .mu-reservation-area {
@@ -1006,7 +1007,7 @@ RESERVATION SECTION
 ====================*/
 
 #mu-client-testimonial {
-  background-image: url("assets/img/testimonial-bg.jpg");
+  background-image: url("assets/img/slider/two.jpg");
   background-size: cover;
   background-attachment: fixed;
   display: inline;
